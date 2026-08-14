@@ -31,7 +31,7 @@ A topic may have several completed artifacts. The tracker uses separate columns 
 | Contribution standards | 🚧 In progress |
 | MIT License | ✅ Complete |
 | AWS Knowledge Map | 🚧 In progress |
-| First article | 🟡 Begins after foundation merge |
+| First validated foundation lab | 🔬 EC2 Hello World completed |
 
 ## Topic Tracker
 
@@ -52,7 +52,7 @@ A topic may have several completed artifacts. The tracker uses separate columns 
 
 | Topic | LinkedIn | Article | Lab | Diagram | GitHub | Review |
 |---|---|---|---|---|---|---|
-| Amazon EC2 | ✅ | — | — | — | — | — |
+| Amazon EC2 | ✅ | — | 🔬 | 🚧 | 🚧 In pull request | August 2026 |
 | EC2 Instance Types and Purchasing Options | 🟡 | — | — | — | — | — |
 | Amazon Machine Images | 🟡 | — | — | — | — | — |
 | EC2 Auto Scaling | ✅ | — | — | — | — | — |
@@ -209,4 +209,3 @@ It will follow this sequence:
 3. A deployment does not count as a completed lab until it is validated and cleaned up.
 4. A diagram must be original and checked against the written architecture.
 5. Quality and accuracy take priority over publishing frequency.
-
