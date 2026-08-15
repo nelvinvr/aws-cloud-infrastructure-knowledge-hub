@@ -2,9 +2,15 @@
 
 Validated exercises that capture architecture, cost, implementation, security, failure testing, troubleshooting, cleanup, and lessons learned.
 
+## Completed Labs
+
+| Lab | Level | Validation | Diagram |
+|---|---|---|---|
+| [EC2 Hello World Web Server](foundations/ec2-hello-world-web-server.md) | Beginner | Service, local HTTP, and public HTTP validated | [Completed](../assets/diagrams/ec2-hello-world-architecture.png) |
+
 ## Planned Topics
 
-- [ ] Foundation labs
+- [x] Foundation labs
 - [ ] Windows on AWS labs
 - [ ] Networking labs
 - [ ] Security labs
@@ -22,5 +28,4 @@ Validated exercises that capture architecture, cost, implementation, security, f
 
 ## Publishing Rule
 
-A checked topic means a reviewed article exists in this folder.
-
+A checked topic means at least one reviewed and validated lab exists in that category. Lab documentation must use original wording and exclude credentials, account identifiers, private course material, and unredacted environment details.
