@@ -6,7 +6,7 @@ Validated exercises that capture architecture, cost, implementation, security, f
 
 | Lab | Level | Validation | Diagram |
 |---|---|---|---|
-| [EC2 Hello World Web Server](foundations/ec2-hello-world-web-server.md) | Beginner | Service, local HTTP, and public HTTP validated | Manual diagram pending |
+| [EC2 Hello World Web Server](foundations/ec2-hello-world-web-server.md) | Beginner | Service, local HTTP, and public HTTP validated | [Completed](../assets/diagrams/ec2-hello-world-architecture.png) |
 
 ## Planned Topics
 
