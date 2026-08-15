@@ -52,7 +52,7 @@ A topic may have several completed artifacts. The tracker uses separate columns 
 
 | Topic | LinkedIn | Article | Lab | Diagram | GitHub | Review |
 |---|---|---|---|---|---|---|
-| Amazon EC2 | ✅ | — | 🔬 | 🚧 | 🚧 In pull request | August 2026 |
+| Amazon EC2 | ✅ | — | 🔬 | 🧭 | 🚧 In pull request | August 2026 |
 | EC2 Instance Types and Purchasing Options | 🟡 | — | — | — | — | — |
 | Amazon Machine Images | 🟡 | — | — | — | — | — |
 | EC2 Auto Scaling | ✅ | — | — | — | — | — |
