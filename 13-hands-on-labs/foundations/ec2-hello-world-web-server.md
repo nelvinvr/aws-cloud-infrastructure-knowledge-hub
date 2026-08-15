@@ -146,9 +146,9 @@ The completed original diagram shows:
 - An Internet Gateway attached to the VPC
 - A route from the public subnet to the Internet Gateway
 - A security group allowing HTTP on TCP/80
-- One EC2 instance with a public and private IPv4 label
+- One EC2 instance in the public subnet
 - Apache and `index.html` inside the instance
-- A left-to-right request arrow and a return arrow
+- A left-to-right HTTP request path
 - A note that SSH TCP/22 was used only for the temporary lab
 
 Do not include real account IDs, instance IDs, IP addresses, DNS names, VPC IDs, subnet IDs, security-group IDs, or temporary credentials.
