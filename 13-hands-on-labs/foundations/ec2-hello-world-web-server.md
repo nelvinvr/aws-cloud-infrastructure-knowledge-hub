@@ -18,9 +18,9 @@ The final request path was:
 
 **Web browser → Internet → EC2 public IPv4 address → Security group TCP/80 → EC2 network interface → Apache HTTP Server → index.html**
 
-An original architecture diagram will be added after it is recreated manually and reviewed.
+![EC2 Hello World lab architecture](../../assets/diagrams/ec2-hello-world-architecture.png)
 
-**Planned diagram location:** `assets/diagrams/ec2-hello-world-architecture.png`
+The editable source is available in both [draw.io](../../assets/diagrams/ec2-hello-world-architecture.drawio) and [SVG](../../assets/diagrams/ec2-hello-world-architecture.svg) formats. The diagram shows the complete dependency chain: public addressing, an Internet Gateway, a default route, an allowed security-group port, and Apache listening on the instance.
 
 ## Resources and Configuration
 
@@ -136,9 +136,9 @@ In a personal AWS account, the cleanup checklist would include:
 - Remove lab-specific security groups after all dependencies are gone.
 - Verify that no snapshots, AMIs, load balancers, or other billable resources remain.
 
-## Diagram Checklist
+## Diagram Review
 
-The manually created diagram should show:
+The completed original diagram shows:
 
 - One internet user/browser
 - The AWS Cloud and one VPC boundary
